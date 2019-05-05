@@ -1,2 +1,2 @@
-# Split-and-Model-module-
-This module consist of using multiprocessing for fast modelling of independent component
+# Splitted data processing module-
+This module uses multiprocessing for fast modelling of splitted data.
