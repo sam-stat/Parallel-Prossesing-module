@@ -1,2 +1,2 @@
-# Splitted data processing module-
-This module uses multiprocessing for fast modelling of splitted data.
+# Parallel-Prossesing-module for splitted data processing
+This module uses multiprocessing for fast operation on splitted data.
